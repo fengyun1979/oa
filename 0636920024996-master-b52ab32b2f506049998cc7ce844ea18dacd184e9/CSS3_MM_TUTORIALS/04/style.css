@@ -1,0 +1,13 @@
+p{
+    color: #ff6600;
+    margin-left: 50px;
+    padding-left: 20px;
+    border-left:solid 25px #bd8100;
+}
+.pageStyle{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    color: #bd8100;
+    width: 900px;
+    margin: 0 atuo;
+}
